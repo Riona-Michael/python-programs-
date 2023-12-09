@@ -1,2 +1,2 @@
-# python-patterns
-Printing patterns in python 
+Random python programs 
+
